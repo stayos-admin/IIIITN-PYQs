@@ -1,4 +1,4 @@
-# 📚 IIIITN-PYQs
+# 📚 IIITN-PYQs
 
 > Unofficial archive of IIIT Nagpur previous year question papers.
 > Browse papers at [iiitnpyq.netlify.app](https://iiitnpyq.netlify.app)
